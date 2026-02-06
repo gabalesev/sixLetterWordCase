@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\peripass.test\\6letterword\\6letterword.csproj": {}
+    "C:\\git\\peripass.case\\6letterword\\6letterword.csproj": {}
   },
   "projects": {
-    "C:\\git\\peripass.test\\6letterword\\6letterword.csproj": {
+    "C:\\git\\peripass.case\\6letterword\\6letterword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\peripass.test\\6letterword\\6letterword.csproj",
+        "projectUniqueName": "C:\\git\\peripass.case\\6letterword\\6letterword.csproj",
         "projectName": "6letterword",
-        "projectPath": "C:\\git\\peripass.test\\6letterword\\6letterword.csproj",
+        "projectPath": "C:\\git\\peripass.case\\6letterword\\6letterword.csproj",
         "packagesPath": "C:\\Users\\sevil\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\peripass.test\\6letterword\\obj\\",
+        "outputPath": "C:\\git\\peripass.case\\6letterword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

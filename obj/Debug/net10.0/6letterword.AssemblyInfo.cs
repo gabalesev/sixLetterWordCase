@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6letterword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7408221031a8939da483feb97dd91a047b4ea0ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d28ef7671027d118df1e73cf954b4b58e2cac229")]
 [assembly: System.Reflection.AssemblyProductAttribute("6letterword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6letterword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
