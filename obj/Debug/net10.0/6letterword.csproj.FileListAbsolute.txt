@@ -1,0 +1,15 @@
+C:\git\peripass.test\6letterword\bin\Debug\net10.0\6letterword.exe
+C:\git\peripass.test\6letterword\bin\Debug\net10.0\6letterword.deps.json
+C:\git\peripass.test\6letterword\bin\Debug\net10.0\6letterword.runtimeconfig.json
+C:\git\peripass.test\6letterword\bin\Debug\net10.0\6letterword.dll
+C:\git\peripass.test\6letterword\bin\Debug\net10.0\6letterword.pdb
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.AssemblyInfoInputs.cache
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.AssemblyInfo.cs
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.csproj.CoreCompileInputs.cache
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.sourcelink.json
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.dll
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\refint\6letterword.dll
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.pdb
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\6letterword.genruntimeconfig.cache
+C:\git\peripass.test\6letterword\obj\Debug\net10.0\ref\6letterword.dll
