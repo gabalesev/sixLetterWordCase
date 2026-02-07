@@ -6,7 +6,7 @@ const string fileName = "input.txt";
 
 string inputFilePath = Path.Combine(AppContext.BaseDirectory, fileName);
 
-// todo: call asynchronously if the file is large
+// todo: call asynchronously
 var words = File.ReadLines(inputFilePath) // space complexity O(1)
     .Where(line => !string.IsNullOrWhiteSpace(line))
     .Select(line => line.Trim());
@@ -14,7 +14,6 @@ var words = File.ReadLines(inputFilePath) // space complexity O(1)
 var finder = new WordCombinationFinder(words, targetWordLength);
 var combinations = finder.FindCombinations();
 
-// results
 foreach (var combination in combinations)
 {
     var parts = string.Join("+", combination);
